@@ -1,4 +1,4 @@
 FEDR ATDB Version on FDN: 90.00320 was uploaded on 2022-06-12 16:45
 FEDR ETDB Version on FDN: 90.00304 was uploaded on 2022-06-07 13:55
 FEDR EXDB Version on FDN: 90.00307 was uploaded on 2022-06-08 14:01
-FEDR URL_DB_VER Version on FDN: 4.00378 was uploaded on 2022-06-11 19:02
+FEDR URL_DB_VER Version on FDN: 4.00379 was uploaded on 2022-06-12 21:04
